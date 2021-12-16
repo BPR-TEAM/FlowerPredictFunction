@@ -1,5 +1,10 @@
 # FlowerPredictFunction
-Repository for an Azure function acting as the prediction engine for the bachelors project of Andrei, Luis and Martin. [Jupyter notebook](https://github.com/BPR-TEAM/FlowerPredictFunction/blob/master/Orange%20Bush%20-%20Image%20Classification.ipynb) This repo is part of the larger ⬇
+Repository for an Azure function acting as the prediction engine for the bachelors project of Andrei, Luis and Martin. 
+[Jupyter notebook](https://github.com/BPR-TEAM/FlowerPredictFunction/blob/master/Orange%20Bush%20-%20Image%20Classification.ipynb) has the complete explanation of what decicions were taken when creating the model.
+The [Dataset](https://drive.google.com/drive/folders/1L52AfcHcOTbrjtXl9dxfKdgGZK_Bm-dF?usp=sharing) for training and some test images are stored in this drive, for reference.
+Last but not least, the [DataManipulation](https://github.com/BPR-TEAM/DatasetManipulation) mentioned in the the Notebook is another project, in case you want to check it out!
+
+This repo is part of the larger ⬇
 # Orange-bush!
 A [website](https://orange-bush-0a396ce03.azurestaticapps.net/) for monitoring your plants with some added [machine learning](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet).
 ## What the project does
